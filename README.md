@@ -7,11 +7,11 @@ This project analyzes the performance of three major stocks — **TSLA, AAPL, an
 # Project Overview
 - Imported and cleaned daily return data for TSLA, AAPL, and SPY
 - Calculated:
-  - *Daily Return
-  - *Cumulative Return
-  - *Average Daily Return
-  - *Volatility (Standard Deviation)
-  - *Sharpe Ratio
+  - Daily Return
+  - Cumulative Return
+  - Average Daily Return
+  - Volatility (Standard Deviation)
+  - Sharpe Ratio
 - Built an interactive KPI summary table
 - Created bar charts to visualize cumulative returns and Sharpe Ratios
 
